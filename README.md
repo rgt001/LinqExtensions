@@ -1,3 +1,2 @@
 # LinqExtensions
-Extensões para Linq.
-MultipleGroupBy<T>: Agrupa por multiplas propriedades de T, a ideia principal? Evitar a mudança de GetHashCode e afins, resumindo, oferecer uma opção para agrupar uma Lista de T, com base nas propriedades de T, facilitando a replicação de PK Composta
+MultipleGroupBy<T>: Groups by multiple properties of T, the main idea? Avoid changing GetHashCode and the like, in short, provide an option to group a list of T based on the properties of T, making it easier to replicate a composite primary key.
